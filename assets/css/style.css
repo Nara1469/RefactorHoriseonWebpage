@@ -15,6 +15,13 @@ header {
     color: #ffffff;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
 /* Business logo */
 h1 {
     display: inline-block;
@@ -67,7 +74,7 @@ h4 {
     font-size: 20px;
 }
 
-/* Elements positioning style*/
+/* Elements positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,7 +85,7 @@ h4 {
     margin-left: 25px;
 }
 
-/* "Digital-marketing-meeting" Top picture positioning style */
+/* "Digital-marketing-meeting" Top picture positioning */
 .hero {
     height: 800px;
     width: 100%;
@@ -87,7 +94,7 @@ h4 {
     background-position: center;
 }
 
-/* Content Description Area*/
+/* Content Description Styling*/
 .content {
     width: 75%;
     display: inline-block;
@@ -107,7 +114,7 @@ h4 {
     max-height: 200px;
 }
 
-/* Benefits Description Area */
+/* Benefits Description Styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,11 +135,4 @@ h4 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
 }
